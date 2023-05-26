@@ -14,9 +14,6 @@ Live Currency Converter is a real-time currency converter with calculator functi
 	<a style="text-decoration:none" href="https://github.com/b4cstudio/live-currency-converter/releases">
     		<img src="https://img.shields.io/badge/Sideload-Download-purple.svg?style=flat-round" alt="Sideload link" />
 	</a>
-	<a style="text-decoration:none" href="https://community.chocolatey.org/packages/2fast">
-    		<img src="https://img.shields.io/chocolatey/dt/2fast?color=blue&label=Chocolatey" alt="Chocolatey link" />
-	</a>
 	<a href="https://github.com/b4cstudio/live-currency-converter/blob/master/LICENSE" target="_blank" alt="License">
 		<img src="https://img.shields.io/github/license/b4cstudio/live-currency-converter" />
 	</a>
@@ -42,7 +39,7 @@ It provides exchange rate information for all currencies in the world (over 168 
 
 ## Installation
 
-[Visit Microsoft store websites](https://www.microsoft.com/store/apps/9PG6WJGP511T?cid=storebadge&ocid=badge) or open in Microsoft Store app:
+[Visit Microsoft store websites](https://www.microsoft.com/store/apps/9PG6WJGP511T?cid=storebadge&ocid=badge) or Get it from Microsoft Store **ms-windows-store://pdp/?productid=9PG6WJGP511**:
 <p align="center">
 	<a href="ms-windows-store://pdp/?productid=9PG6WJGP511T"><img src='https://developer.microsoft.com/store/badges/images/English_get-it-from-MS.png' alt='English badge' width="150" /></a>
 </p>
@@ -52,8 +49,7 @@ It provides exchange rate information for all currencies in the world (over 168 
 
 The application “Live Currency Converter Exchange” (now called application) is a simple currency converter application. It is the easiest and fastest method to convert currencies and get exchange rate. 
 
-**What Data We Collect and Process:** The application “Easy Backup for Browser Basic” (now called application) does not collect, store or transit any personal …
-
+**What Data We Collect and Process:** The application “Live Currency Converter Exchange” does not collect, store or transit any personal personal data.
 The app does not use any own telemetry functions apart from the standardised telemetry functions by Microsoft (crashes, install from which country, versions in use, custom events etc.).
 
 ## Contact

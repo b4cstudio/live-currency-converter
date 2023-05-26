@@ -5,20 +5,20 @@ Live Currency Converter is a real-time currency converter with calculator functi
 	<img src="Images/logo.svg" width="100">
 </p>
 <p align="center">
-	<a href="https://github.com/2fast-team/2fast/issues" target="_blank" alt="Issues">
-		<img src="https://img.shields.io/github/issues/2fast-team/2fast" />
+	<a href="https://github.com/b4cstudio/live-currency-converter" target="_blank" alt="Issues">
+		<img src="https://img.shields.io/github/issues/b4cstudio/live-currency-converter" />
 	</a>
-	<a href="https://github.com/2fast-team/2fast/graphs/contributors" target="_blank" alt="Contributors">
-		<img src="https://img.shields.io/github/contributors/2fast-team/2fast" />
+	<a href="https://github.com/b4cstudio/live-currency-converter" target="_blank" alt="Contributors">
+		<img src="https://img.shields.io/github/contributors/b4cstudio/live-currency-converter" />
 	</a>
-	<a style="text-decoration:none" href="https://github.com/2fast-team/2fast/releases">
+	<a style="text-decoration:none" href="https://github.com/b4cstudio/live-currency-converter/releases">
     		<img src="https://img.shields.io/badge/Sideload-Download-purple.svg?style=flat-round" alt="Sideload link" />
 	</a>
 	<a style="text-decoration:none" href="https://community.chocolatey.org/packages/2fast">
     		<img src="https://img.shields.io/chocolatey/dt/2fast?color=blue&label=Chocolatey" alt="Chocolatey link" />
 	</a>
-	<a href="https://github.com/2fast-team/2fast/blob/master/LICENSE" target="_blank" alt="License">
-		<img src="https://img.shields.io/github/license/2fast-team/2fast" />
+	<a href="https://github.com/b4cstudio/live-currency-converter/blob/master/LICENSE" target="_blank" alt="License">
+		<img src="https://img.shields.io/github/license/b4cstudio/live-currency-converter" />
 	</a>
 </p>
 
@@ -36,14 +36,15 @@ It provides exchange rate information for all currencies in the world (over 168 
 
 ### Screenshots
 
-<img src="https://i.postimg.cc/FzXQpK43/2fast-screenshot-1.png" alt="2fast Screenshot Login Screen" width="470" />  <img src="https://i.postimg.cc/zv7PhDXJ/2fast-screenshot-2.png" alt="2fast Screenshot Account Screen" width="464" />
+<img src="Images/Screenshot-black.png" alt="Live Currency Converter Black Theme" width="400" />  <img src="Images/Screenshot-white.png" alt=" Currency Converter White Theme" width="400" />
 
 ## Installation
 
-For Windows operating systems:
+[Visit Microsoft store websites](https://www.microsoft.com/store/apps/9PG6WJGP511T?cid=storebadge&ocid=badge) or open in Microsoft Store app:
 <p align="center">
-	<a href='//www.microsoft.com/store/apps/9p9d81glh89q?cid=storebadge&ocid=badge'><img src='https://developer.microsoft.com/store/badges/images/English_get-it-from-MS.png' alt='English badge' width="150" /></a>
+	<a href='ms-windows-store://pdp/?productid=9PG6WJGP511T'><img src='https://developer.microsoft.com/store/badges/images/English_get-it-from-MS.png' alt='English badge' width="150" /></a>
 </p>
+
 
 ## Privacy
 
@@ -55,6 +56,6 @@ The app does not use any own telemetry functions apart from the standardised tel
 
 ## Contact
 
-Project Link: [https://github.com/2fast-team/2fast](https://github.com/2fast-team/2fast) // [https://2fast-app.de](https://2fast-app.de)
+Project Link: [https://github.com/b4cstudio/live-currency-converter](https://github.com/b4cstudio/live-currency-converter) // [https://2fast-app.de](https://2fast-app.de)
 Contact us: [b4cstudio.com](https://b4cstudio.com)
 Email: [b4cstudio@outlook.com](mailto:b4cstudio@outlook.com)

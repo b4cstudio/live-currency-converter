@@ -36,7 +36,9 @@ It provides exchange rate information for all currencies in the world (over 168 
 
 ### Screenshots
 
+<p align="center">
 <img src="Images/Screenshot-black.png" alt="Live Currency Converter Black Theme" width="400" />  <img src="Images/Screenshot-white.png" alt=" Currency Converter White Theme" width="400" />
+</p>
 
 ## Installation
 
@@ -56,6 +58,8 @@ The app does not use any own telemetry functions apart from the standardised tel
 
 ## Contact
 
-Project Link: [https://github.com/b4cstudio/live-currency-converter](https://github.com/b4cstudio/live-currency-converter) // [https://2fast-app.de](https://2fast-app.de)
+Project Link: [https://github.com/b4cstudio/live-currency-converter](https://github.com/b4cstudio/live-currency-converter)
+
 Contact us: [b4cstudio.com](https://b4cstudio.com)
+
 Email: [b4cstudio@outlook.com](mailto:b4cstudio@outlook.com)

@@ -22,7 +22,7 @@ Live Currency Converter is a real-time currency converter with calculator functi
 	</a>
 </p>
 
-## About live-currency-converter 
+## About Live Currency Converter Exchange
 Live Currency Converter Exchange is a real-time currency converter with calculator function. 
 It provides exchange rate information for all currencies in the world (over 168 currencies), and all exchange rates are updated every hour.
 
@@ -44,7 +44,7 @@ It provides exchange rate information for all currencies in the world (over 168 
 
 [Visit Microsoft store websites](https://www.microsoft.com/store/apps/9PG6WJGP511T?cid=storebadge&ocid=badge) or open in Microsoft Store app:
 <p align="center">
-	<a href='ms-windows-store://pdp/?productid=9PG6WJGP511T'><img src='https://developer.microsoft.com/store/badges/images/English_get-it-from-MS.png' alt='English badge' width="150" /></a>
+	<a href="ms-windows-store://pdp/?productid=9PG6WJGP511T"><img src='https://developer.microsoft.com/store/badges/images/English_get-it-from-MS.png' alt='English badge' width="150" /></a>
 </p>
 
 
